@@ -1,0 +1,45 @@
+
+
+*************************************************************************************************
+*************************************************************************************************
+*************************************************************************************************
+**											       **
+**	Replication notes for "Whose Issue Is It Anyway?" (Therriault, forthcoming in BJPS)    **
+**	For more information, please contact Andrew Therriault at andrew.therriault@gmail.com  **
+**	Last modified: November 22, 2014, Andrew Therriault				       **
+**											       **
+*************************************************************************************************
+*************************************************************************************************
+*************************************************************************************************
+
+SUMMARY:
+
+This folder contains replication data for "Whose Issue Is It Anyway? A New Look at the Meaning and Measurement of Issue Ownership", by Andrew Therriault, forthcoming in British Journal of Political Science.
+
+************
+
+ABOUT THE DATA:
+
+This repository contains all original data files, Stata scripts, and log output files used in the papers' analyses. These files are solely included for the purpose of replication, and should not be used for any other analyses. If you wish to use the CCES data for your own research, please obtain the latest version from the CCES website (http://projects.iq.harvard.edu/cces/home).
+
+************
+
+ABOUT THE CODE:
+
+All of analyses included in this archive were conducted in Stata. In order to run this code, users will need version 11 or higher, and may be required to install additional Stata packages, including the following:
+
+--hotdeckvar (use command "findit hotdeckvar" to install)
+--epcp (download from http://www.cnlawrence.com/data/epcp.zip)
+
+If you run into complications reproducing these results, please contact the author for assistance. 
+
+
+*************************************************************************************************
+*************************************************************************************************
+*************************************************************************************************
+**											       **
+**	For more information, please contact Andrew Therriault at andrew.therriault@gmail.com  **
+**											       **
+*************************************************************************************************
+*************************************************************************************************
+*************************************************************************************************
