@@ -1,4 +1,1 @@
-whoseissue
-==========
-
-Replication Files for "Whose Issue Is It Anyway?" (Therriault forthcoming)
+See REPLICATION_NOTES.txt for relevant information.
